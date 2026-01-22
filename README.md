@@ -1,1 +1,1 @@
-# "Swar Guru" : A AI Audio Analyzer
+# "Swar Guru" : An AI Audio Analyzer
